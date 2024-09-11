@@ -1,0 +1,2 @@
+# KNN
+Custom KNN class
